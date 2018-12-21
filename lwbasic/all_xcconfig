@@ -1,0 +1,4 @@
+//链接参数
+OTHER_LDFLAGS_lwbasic = -framework lwbasic -ObjC
+
+
